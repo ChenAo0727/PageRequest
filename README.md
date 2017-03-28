@@ -1,8 +1,8 @@
 # PageRequest
 
-A pageRequest quick request list data
+A page request quick request list data
 
-##usage
+## usage
 
 #### quick request
 
@@ -15,7 +15,7 @@ A pageRequest quick request list data
 
 ```
 
-####reset data
+#### reset data
 ```
  [PageRequest resetPageWithIdentifier:NSStringFromClass([self class])];
     
